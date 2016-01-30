@@ -5,4 +5,10 @@ type Person =
 
 
 let person = { FirstName = "Amir"; LastName = "Rajan" }
-printfn "%s" (person.Greet person)
+
+let otherPerson = {
+  FirstName = "John"
+  LastName = "Doe"
+}
+
+printfn "%s" (person.Greet otherPerson)
