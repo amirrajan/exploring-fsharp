@@ -1,11 +1,5 @@
 open System
 
-printfn "hello world"
-
-let blah = 1 + 1
-
-System.Console.WriteLine("booya")
-
 type Person =
   { FirstName : string; LastName : string; }
   member this.FullName = this.FirstName + " " + this.LastName
