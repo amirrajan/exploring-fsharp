@@ -1,5 +1,3 @@
-open System
-
 type Person =
   { FirstName : string; LastName : string; }
   member this.FullName = this.FirstName + " " + this.LastName
