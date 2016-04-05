@@ -1,0 +1,6 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+01/31/2016	02/27/2016			a-dark-room	9	0.00	0.00	SAR	S	736683061	Amirali Rajan	A Dark Room			1F		SA		CR	0.00	SAR
+01/31/2016	02/27/2016			a-dark-room	1	2.58	2.58	SAR	S	736683061	Amirali Rajan	A Dark Room			1F		SA			3.69	SAR
+Total_Rows	2
+Total_Amount	2.58
+Total_Units	10

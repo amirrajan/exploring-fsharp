@@ -1,0 +1,28 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+01/31/2016	02/27/2016			a-dark-room	3220	0.70	2254.00	USD	S	736683061	Amirali Rajan	A Dark Room			1F		US			0.99	USD
+01/31/2016	02/27/2016			a-dark-room	919	0.00	0.00	USD	S	736683061	Amirali Rajan	A Dark Room			1F		US		CR	0.00	USD
+01/31/2016	02/27/2016			a-dark-room	1	0.70	0.70	USD	S	736683061	Amirali Rajan	A Dark Room			1F		TT			0.99	USD
+01/31/2016	02/27/2016			a-dark-room	1	0.70	0.70	USD	S	736683061	Amirali Rajan	A Dark Room			1F		HN			0.99	USD
+01/31/2016	02/27/2016			a-dark-room	35	0.00	0.00	USD	S	736683061	Amirali Rajan	A Dark Room			1F		BR		CR	0.00	USD
+01/31/2016	02/27/2016			a-dark-room	2	0.70	1.40	USD	S	736683061	Amirali Rajan	A Dark Room			1F		CO			0.99	USD
+01/31/2016	02/27/2016			a-dark-room	17	0.70	11.90	USD	S	736683061	Amirali Rajan	A Dark Room			1F		BR			0.99	USD
+01/31/2016	02/27/2016			a-dark-room	-14	0.70	-9.80	USD	R	736683061	Amirali Rajan	A Dark Room			1F		US			-0.99	USD
+01/31/2016	02/27/2016			a-dark-room	3	0.70	2.10	USD	S	736683061	Amirali Rajan	A Dark Room			1F		CL			0.99	USD
+01/31/2016	02/27/2016			a-dark-room	2	0.70	1.40	USD	S	736683061	Amirali Rajan	A Dark Room			1F		AR			0.99	USD
+01/31/2016	02/27/2016			theensign	-2	0.70	-1.40	USD	R	908073488	Amirali Rajan	The Ensign			1F		US			-0.99	USD
+01/31/2016	02/27/2016			theensign	3	0.70	2.10	USD	S	908073488	Amirali Rajan	The Ensign			1F		BR			0.99	USD
+01/31/2016	02/27/2016			theensign	1	0.70	0.70	USD	S	908073488	Amirali Rajan	The Ensign			1F		AR			0.99	USD
+01/31/2016	02/27/2016			theensign	942	0.70	659.40	USD	S	908073488	Amirali Rajan	The Ensign			1F		US			0.99	USD
+01/31/2016	02/27/2016			theensign	1	0.70	0.70	USD	S	908073488	Amirali Rajan	The Ensign			1F		CO			0.99	USD
+01/31/2016	02/27/2016			BeautifulGo	8	1.40	11.20	USD	S	955295568	Amirali Rajan	Beautiful Go			1F		US			1.99	USD
+01/31/2016	02/27/2016			flatland	1	0.70	0.70	USD	S	977865620	Amirali Rajan	A Noble Circle			1F		EC			0.99	USD
+01/31/2016	02/27/2016			flatland	-1	0.70	-0.70	USD	R	977865620	Amirali Rajan	A Noble Circle			1F		BR			-0.99	USD
+01/31/2016	02/27/2016			flatland	5	0.00	0.00	USD	S	977865620	Amirali Rajan	A Noble Circle			1F		US		CR	0.00	USD
+01/31/2016	02/27/2016			flatland	1	0.70	0.70	USD	S	977865620	Amirali Rajan	A Noble Circle			1F		SV			0.99	USD
+01/31/2016	02/27/2016			flatland	400	0.70	280.00	USD	S	977865620	Amirali Rajan	A Noble Circle			1F		US			0.99	USD
+01/31/2016	02/27/2016			flatland	10	0.70	7.00	USD	S	977865620	Amirali Rajan	A Noble Circle			1F		BR			0.99	USD
+01/31/2016	02/27/2016			flatland	1	0.70	0.70	USD	S	977865620	Amirali Rajan	A Noble Circle			1F		AR			0.99	USD
+01/31/2016	02/27/2016			adr-bundle	1	2.10	2.10	USD	S	999347389	Amirali Rajan	A Dark Room and The Ensign			1-B		US			2.99	USD
+Total_Rows	24
+Total_Amount	3225.6
+Total_Units	5557

@@ -1,0 +1,13 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+01/31/2016	02/27/2016			a-dark-room	-7	0.63	-4.41	AUD	R	736683061	Amirali Rajan	A Dark Room			1F		AU			-0.99	AUD
+01/31/2016	02/27/2016			a-dark-room	1	0.82	0.82	AUD	S	736683061	Amirali Rajan	A Dark Room			1F		AU			1.29	AUD
+01/31/2016	02/27/2016			a-dark-room	6499	0.63	4094.37	AUD	S	736683061	Amirali Rajan	A Dark Room			1F		AU			0.99	AUD
+01/31/2016	02/27/2016			a-dark-room	64	0.00	0.00	AUD	S	736683061	Amirali Rajan	A Dark Room			1F		AU		CR	0.00	AUD
+01/31/2016	02/27/2016			theensign	1	0.82	0.82	AUD	S	908073488	Amirali Rajan	The Ensign			1F		AU			1.29	AUD
+01/31/2016	02/27/2016			theensign	406	0.63	255.78	AUD	S	908073488	Amirali Rajan	The Ensign			1F		AU			0.99	AUD
+01/31/2016	02/27/2016			BeautifulGo	3	1.90	5.70	AUD	S	955295568	Amirali Rajan	Beautiful Go			1F		AU			2.99	AUD
+01/31/2016	02/27/2016			BeautifulGo	-1	1.90	-1.90	AUD	R	955295568	Amirali Rajan	Beautiful Go			1F		AU			-2.99	AUD
+01/31/2016	02/27/2016			flatland	119	0.63	74.97	AUD	S	977865620	Amirali Rajan	A Noble Circle			1F		AU			0.99	AUD
+Total_Rows	9
+Total_Amount	4426.15
+Total_Units	7085

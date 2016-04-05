@@ -1,0 +1,7 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+01/31/2016	02/27/2016			a-dark-room	23	7.00	161.00	INR	S	736683061	Amirali Rajan	A Dark Room			1F		IN			10.00	INR
+01/31/2016	02/27/2016			a-dark-room	16	0.00	0.00	INR	S	736683061	Amirali Rajan	A Dark Room			1F		IN		CR	0.00	INR
+01/31/2016	02/27/2016			a-dark-room	-1	7.00	-7.00	INR	R	736683061	Amirali Rajan	A Dark Room			1F		IN			-10.00	INR
+Total_Rows	3
+Total_Amount	154
+Total_Units	38

@@ -1,0 +1,55 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+01/31/2016	02/27/2016			a-dark-room	71	0.00	0.00	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		IT		CR	0.00	EUR
+01/31/2016	02/27/2016			a-dark-room	11	0.58	6.38	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		AT			0.99	EUR
+01/31/2016	02/27/2016			a-dark-room	94	0.00	0.00	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		DE		CR	0.00	EUR
+01/31/2016	02/27/2016			a-dark-room	30	0.58	17.40	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		DE			0.99	EUR
+01/31/2016	02/27/2016			a-dark-room	1	0.58	0.58	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		RO			0.99	EUR
+01/31/2016	02/27/2016			a-dark-room	1	0.00	0.00	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		GR		CR	0.00	EUR
+01/31/2016	02/27/2016			a-dark-room	8	0.00	0.00	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		BE		CR	0.00	EUR
+01/31/2016	02/27/2016			a-dark-room	9	0.00	0.00	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		PT		CR	0.00	EUR
+01/31/2016	02/27/2016			a-dark-room	12	0.56	6.72	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		PL			0.99	EUR
+01/31/2016	02/27/2016			a-dark-room	1	0.55	0.55	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		HU			0.99	EUR
+01/31/2016	02/27/2016			a-dark-room	2	0.00	0.00	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		LU		CR	0.00	EUR
+01/31/2016	02/27/2016			a-dark-room	14	0.58	8.12	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		FR			0.99	EUR
+01/31/2016	02/27/2016			a-dark-room	5	0.00	0.00	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		AT		CR	0.00	EUR
+01/31/2016	02/27/2016			a-dark-room	4	0.00	0.00	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		RO		CR	0.00	EUR
+01/31/2016	02/27/2016			a-dark-room	19	0.57	10.83	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		IT			0.99	EUR
+01/31/2016	02/27/2016			a-dark-room	2	0.56	1.12	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		PT			0.99	EUR
+01/31/2016	02/27/2016			a-dark-room	15	0.57	8.55	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		ES			0.99	EUR
+01/31/2016	02/27/2016			a-dark-room	22	0.56	12.32	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		IE			0.99	EUR
+01/31/2016	02/27/2016			a-dark-room	3	0.58	1.74	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		BG			0.99	EUR
+01/31/2016	02/27/2016			a-dark-room	9	0.57	5.13	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		CZ			0.99	EUR
+01/31/2016	02/27/2016			a-dark-room	64	0.00	0.00	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		ES		CR	0.00	EUR
+01/31/2016	02/27/2016			a-dark-room	34	0.57	19.38	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		NL			0.99	EUR
+01/31/2016	02/27/2016			a-dark-room	7	0.56	3.92	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		FI			0.99	EUR
+01/31/2016	02/27/2016			a-dark-room	5	0.00	0.00	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		IE		CR	0.00	EUR
+01/31/2016	02/27/2016			a-dark-room	2	0.59	1.18	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		LU			0.99	EUR
+01/31/2016	02/27/2016			a-dark-room	1	0.57	0.57	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		LV			0.99	EUR
+01/31/2016	02/27/2016			a-dark-room	4	0.00	0.00	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		FI		CR	0.00	EUR
+01/31/2016	02/27/2016			a-dark-room	49	0.00	0.00	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		FR		CR	0.00	EUR
+01/31/2016	02/27/2016			a-dark-room	-1	0.57	-0.57	EUR	R	736683061	Amirali Rajan	A Dark Room			1F		NL			-0.99	EUR
+01/31/2016	02/27/2016			a-dark-room	13	0.00	0.00	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		NL		CR	0.00	EUR
+01/31/2016	02/27/2016			a-dark-room	5	0.57	2.85	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		BE			0.99	EUR
+01/31/2016	02/27/2016			theensign	1	0.57	0.57	EUR	S	908073488	Amirali Rajan	The Ensign			1F		ES			0.99	EUR
+01/31/2016	02/27/2016			theensign	1	0.57	0.57	EUR	S	908073488	Amirali Rajan	The Ensign			1F		BE			0.99	EUR
+01/31/2016	02/27/2016			theensign	2	0.58	1.16	EUR	S	908073488	Amirali Rajan	The Ensign			1F		AT			0.99	EUR
+01/31/2016	02/27/2016			theensign	3	0.57	1.71	EUR	S	908073488	Amirali Rajan	The Ensign			1F		IT			0.99	EUR
+01/31/2016	02/27/2016			theensign	1	0.56	0.56	EUR	S	908073488	Amirali Rajan	The Ensign			1F		IE			0.99	EUR
+01/31/2016	02/27/2016			theensign	2	0.57	1.14	EUR	S	908073488	Amirali Rajan	The Ensign			1F		NL			0.99	EUR
+01/31/2016	02/27/2016			theensign	2	0.57	1.14	EUR	S	908073488	Amirali Rajan	The Ensign			1F		CZ			0.99	EUR
+01/31/2016	02/27/2016			theensign	7	0.58	4.06	EUR	S	908073488	Amirali Rajan	The Ensign			1F		DE			0.99	EUR
+01/31/2016	02/27/2016			theensign	2	0.59	1.18	EUR	S	908073488	Amirali Rajan	The Ensign			1F		LU			0.99	EUR
+01/31/2016	02/27/2016			theensign	2	0.55	1.10	EUR	S	908073488	Amirali Rajan	The Ensign			1F		HU			0.99	EUR
+01/31/2016	02/27/2016			theensign	3	0.58	1.74	EUR	S	908073488	Amirali Rajan	The Ensign			1F		FR			0.99	EUR
+01/31/2016	02/27/2016			BeautifulGo	1	1.16	1.16	EUR	S	955295568	Amirali Rajan	Beautiful Go			1F		RO			1.99	EUR
+01/31/2016	02/27/2016			flatland	2	0.57	1.14	EUR	S	977865620	Amirali Rajan	A Noble Circle			1F		ES			0.99	EUR
+01/31/2016	02/27/2016			flatland	1	0.56	0.56	EUR	S	977865620	Amirali Rajan	A Noble Circle			1F		PL			0.99	EUR
+01/31/2016	02/27/2016			flatland	1	0.57	0.57	EUR	S	977865620	Amirali Rajan	A Noble Circle			1F		BE			0.99	EUR
+01/31/2016	02/27/2016			flatland	1	0.56	0.56	EUR	S	977865620	Amirali Rajan	A Noble Circle			1F		IE			0.99	EUR
+01/31/2016	02/27/2016			flatland	1	0.57	0.57	EUR	S	977865620	Amirali Rajan	A Noble Circle			1F		NL			0.99	EUR
+01/31/2016	02/27/2016			flatland	1	0.58	0.58	EUR	S	977865620	Amirali Rajan	A Noble Circle			1F		FR			0.99	EUR
+01/31/2016	02/27/2016			flatland	2	0.58	1.16	EUR	S	977865620	Amirali Rajan	A Noble Circle			1F		DE			0.99	EUR
+01/31/2016	02/27/2016			flatland	1	0.57	0.57	EUR	S	977865620	Amirali Rajan	A Noble Circle			1F		CZ			0.99	EUR
+Total_Rows	51
+Total_Amount	128.57
+Total_Units	553
